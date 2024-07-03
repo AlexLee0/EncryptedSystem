@@ -14,8 +14,4 @@ Fill in this section with the student IDs of all the members in your project gro
 
 Partner 1 SID: 3035807839
 
-Partner 2 SID (if applicable): 3035784296
-
-Also add a link to this repo below (should start with https://github.com/cs161-students/).
-
-Link to this Github repo: https://github.com/cs161-students/fa23-proj2-limleelovelee
+Partner 2 SID: 3035784296
