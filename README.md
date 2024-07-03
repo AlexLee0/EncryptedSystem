@@ -1,17 +1,8 @@
-# Project 2 Starter Code
-
-This repository contains the starter code for Project 2!
+# End-to-End Encrypted File Sharing System
+This system allows verified users to share arbitrarily large files utilizing a client through an insecure data server. Our implementation ensures attacks to recover revoked files, silently tamper data, and impersonate users are computationally infeasible.
 
 For comprehensive documentation, see the Project 2 Spec (https://cs161.org/proj2/).
 
-Write your implementation in `client/client.go` and your integration tests in `client_test/client_test.go`. Optionally, you can also use `client/client_unittest.go` to write unit tests (e.g: to test your helper functions).
+Our implementation is written in `client/client.go` and the integration/unit tests in `client_test/client_test.go` and `client/client_unittest.go`.
 
-To test your implementation, run `go test -v` inside of the `client_test` directory. This will run all tests in both `client/client_unittest.go` and `client_test/client_test.go`.
-
-## Project Members
-
-Fill in this section with the student IDs of all the members in your project group.
-
-Partner 1 SID: 3035807839
-
-Partner 2 SID: 3035784296
+To test the implementation, run `go test -v` inside of the `client_test` directory. This will run all tests in both `client/client_unittest.go` and `client_test/client_test.go`.
