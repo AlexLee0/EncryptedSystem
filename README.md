@@ -1,5 +1,5 @@
 # End-to-End Encrypted File Sharing System
-This system allows verified users to share arbitrarily large files utilizing a client through an insecure data server. Our implementation ensures attacks to recover revoked files, silently tamper data, and impersonate users are computationally infeasible.
+This system allows verified users to share arbitrarily large files utilizing a client through an insecure data server. Our implementation ensures attacks to recover revoked files, silently tamper data, and impersonate users are computationally infeasible. Our design document and reasonings behind our system design are included as well.
 
 For comprehensive documentation, see the Project 2 Spec (https://cs161.org/proj2/).
 
